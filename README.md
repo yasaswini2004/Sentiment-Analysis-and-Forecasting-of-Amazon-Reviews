@@ -2,6 +2,9 @@
 # Project Overview
 This project performs sentiment analysis on Amazon reviews using VADER, detects anomalies in sentiment trends, and forecasts future sentiment using ARIMA. The project also builds a predictive model using Random Forest and explains feature importance with SHAP.
 
+# Dataset
+Get the dataset from here: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
 # Features
 Data Preprocessing: Cleans raw data, converts Unix timestamps to human-readable dates.
 SQL Integration: Stores the dataset in SQLite and executes queries to analyze the data.
